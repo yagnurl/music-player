@@ -1,5 +1,7 @@
 # Music Player
 
+[https://minimal-music-player.netlify.app/](https://minimal-music-player.netlify.app/ "https://minimal-music-player.netlify.app/")
+
 ### Features
 - Songs(in local files) can be played.
 - The duration of song can be displayed
